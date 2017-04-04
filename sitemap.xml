@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://yoursite.com/blog/archives/</loc>
+<loc>http://yipeng-sun.github.io/blog/2017/04/04/ling-ji-chu-ru-men-deep-learning-for-visual-recognition/</loc>
+<lastmod>2017-04-04T20:16:42+08:00</lastmod>
 </url>
 <url>
-<loc>http://yoursite.com/</loc>
+<loc>http://yipeng-sun.github.io/blog/archives/</loc>
+</url>
+<url>
+<loc>http://yipeng-sun.github.io/</loc>
 </url>
 </urlset>

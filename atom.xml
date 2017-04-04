@@ -2,15 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2016-12-13T10:15:25+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://yipeng-sun.github.io/atom.xml" rel="self"/>
+  <link href="http://yipeng-sun.github.io/"/>
+  <updated>2017-04-04T20:38:40+08:00</updated>
+  <id>http://yipeng-sun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[零基础入门实战deep Learning]]></title>
+    <link href="http://yipeng-sun.github.io/blog/2017/04/04/ling-ji-chu-ru-men-deep-learning-for-visual-recognition/"/>
+    <updated>2017-04-04T20:16:42+08:00</updated>
+    <id>http://yipeng-sun.github.io/blog/2017/04/04/ling-ji-chu-ru-men-deep-learning-for-visual-recognition</id>
+    <content type="html"><![CDATA[<h4>零基础入门实战deep learning</h4>
+
+<h5>Outline</h5>
+
+<ul>
+<li><p>作为一名在学校没有任何deep learning实战经验的初学者，如何在计算机视觉、图像处理、视频分析等领域快速利用deep learning做出真正可用可靠的算法系统？</p></li>
+<li><p>本文将从博主的自学与实战经验出发，分享一些实战与自学过程中的经历与教训，希望能够对有智与从事AI视觉图像领域的朋友有所帮助和借鉴。</p></li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
